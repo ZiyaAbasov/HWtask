@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\abcd\abcd\obj\Debug\net8.0\abcd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\abcd\abcd\obj\Debug\net8.0\abcd.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\abcd\abcd\obj\Debug\net8.0\abcd.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\abcd\abcd\obj\Debug\net8.0\abcd.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\abcd\abcd\bin\Debug\net8.0\abcd.exe
+C:\Users\LENOVO\Documents\abcd\abcd\bin\Debug\net8.0\abcd.deps.json
+C:\Users\LENOVO\Documents\abcd\abcd\bin\Debug\net8.0\abcd.runtimeconfig.json
+C:\Users\LENOVO\Documents\abcd\abcd\bin\Debug\net8.0\abcd.dll
+C:\Users\LENOVO\Documents\abcd\abcd\bin\Debug\net8.0\abcd.pdb
+C:\Users\LENOVO\Documents\abcd\abcd\obj\Debug\net8.0\abcd.dll
+C:\Users\LENOVO\Documents\abcd\abcd\obj\Debug\net8.0\refint\abcd.dll
+C:\Users\LENOVO\Documents\abcd\abcd\obj\Debug\net8.0\abcd.pdb
+C:\Users\LENOVO\Documents\abcd\abcd\obj\Debug\net8.0\abcd.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\abcd\abcd\obj\Debug\net8.0\ref\abcd.dll
